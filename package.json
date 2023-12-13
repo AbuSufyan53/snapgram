@@ -28,6 +28,7 @@
     "shadcn-ui": "^0.4.1",
     "tailwind-merge": "^2.0.0",
     "textarea": "^0.3.0",
+    "vercel": "^32.7.1",
     "zod": "^3.22.4"
   },
   "devDependencies": {
